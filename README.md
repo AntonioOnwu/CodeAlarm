@@ -21,8 +21,6 @@ This is a mobile alarm clock application that forces users to correctly answer C
 - React Native
 - Python
 
-[Back To The Top] 
-
 
 ---
 

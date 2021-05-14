@@ -16,9 +16,10 @@ Read Me
 
 ## Description
 
-This is a mobile alarm clock application that forces users to solve Computer Science questions to turn off the alarm. It is used to increase users' promptness and understanding of important Computer Science concepts.
+This is a mobile alarm clock application that forces users to correctly answer Computer Science questions to turn off the alarm. It is used to increase users' promptness and understanding of important programing fundementals.
 
 - React Native
+- Python
 
 [Back To The Top] 
 
